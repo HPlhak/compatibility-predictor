@@ -1,10 +1,10 @@
 # compatibility-predictor
 
-Simple overview of use/purpose.
+DataHouse would like to add new members to its team. To help assess candidates, this program gives each applicant a compatibily score between 0 and 1, 0 indicating the lowest possible compatibility and 1 indicating the most. 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Determining the compabiltilty of an applicant with the current team is open-ended. I have narrowed down the team's objective to this: search for applicants who would contribute something that the team currently lacks. We will
 
 ## Getting Started
 
@@ -33,17 +33,7 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
-## Authors
+## Author
 
-Contributors names and contact info
+John Harrison Plhak
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
