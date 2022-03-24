@@ -12,7 +12,7 @@ We first find compatibility scores for each attribute separately. To do this, we
 
 To calculate an applicant's compatibility for a given attribute, we find diff, the difference between the applicant's attribute score and the team average attribute score. If diff is negative, the compatibility score for that attribute is 0. Otherwise the compatibility score is then given by:
 
-<img src="https://render.githubusercontent.com/render/math?math=((\text{diff} * 0.21097) / ((0.1 * \text{diff}) + 1)">
+<img src="https://render.githubusercontent.com/render/math?math=((\text{diff} * 0.21097) / (0.1 * \text{diff} + 1))">
 
 This function is somewhat arbitrary and can be changed depending on the needs of the team. When calculating the total compatibility score for an applicant, I chose to weight intelligence twice as much the other attributes. This can also be modified depending on the team's needs.
 
