@@ -12,7 +12,7 @@ We first find compatibility scores for each attribute separately. To do this we 
 
 To calculate an applicant's compatibility for a given attribute, we find diff, the difference between the applicant's attribute score and the team avergae attribute score. If diff is negative, the compatibility score for that attribute is 0. Otherwise the compatibility score is then given by:
 
-<img src="https://render.githubusercontent.com/render/math?math=(\text{diff} * 0.21097) / (1 ++ (0.1 * \text{diff}))">
+<img src="https://render.githubusercontent.com/render/math?math=(\text{diff} * 0.21097) / (1 + (0.1 * \text{diff}))">
 
 This function is somewhat arbitrary and can be changed depending on the needs of the team.
 
