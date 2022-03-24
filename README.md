@@ -6,6 +6,10 @@ DataHouse would like to add new members to its team. To help assess candidates, 
 
 Given a list of current team members and their respective scores (1-10) for intelligence, strength, endurance, and spicy food tolerance, we would like to predict the compatibility of each applicant. Determining compabiltilty is open-ended, so I narrowed down the team's objective to this: search for applicants who would contribute something that the team currently lacks, with a focus on intelligence more than other attriubtes. When an applicant ranks higher than the team average for a given attribute, their overall compatibility score increases.
 
+We first calculate compatibility scores for each attribute separately. 
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 ## Getting Started
 
 ### Dependencies
