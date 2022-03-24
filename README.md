@@ -17,7 +17,7 @@ To calculate an applicant's compatibility for a given attribute, we find diff, t
 
 This function is somewhat arbitrary and can be changed depending on the needs of the team. When calculating the total compatibility score for an applicant, I chose to weight intelligence twice as much the other attributes. This can also be modified depending on the team's needs.
 
-Since compaitiblity score is set to zero when diff is negative, two underqualified applicants may receive the same compatibility score, even if there is a large difference in skill between each applicant. This could be imrpvoed upon with more time. 
+Since the compaitiblity score is set to zero when diff is negative, two underqualified applicants may receive the same compatibility score, even if there is a large difference in skill between them. This could be improved upon with more time. 
 
 
 
