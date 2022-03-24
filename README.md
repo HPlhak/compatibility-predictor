@@ -1,6 +1,6 @@
 # compatibility-predictor
 
-DataHouse would like to add new members to its team. To help assess candidates, this program gives each applicant a compatibily score between 0 and 1 (0 indicating the lowest possible compatibility and 1 indicating the most). 
+DataHouse would like to add new members to its team. To help assess candidates, this program gives each applicant a compatibility score between 0 and 1 (0 indicating the lowest possible compatibility and 1 indicating the most). 
 
 ## Description
 
